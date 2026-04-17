@@ -5,7 +5,9 @@
       "Bash(cmd /c \"node --version\")",
       "Bash(cmd /c \"npm --version\")",
       "Bash(cmd /c \"where node\")",
-      "Bash(powershell.exe -Command \"node --version; npm --version; npx --version\")"
+      "Bash(powershell.exe -Command \"node --version; npm --version; npx --version\")",
+      "Bash(npm --version)",
+      "Bash(powershell.exe -Command \"node --version; npm --version\")"
     ]
   }
 }
